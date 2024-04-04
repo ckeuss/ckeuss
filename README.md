@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Claudia, a former interior architect (M.A.) with several years of work experience in the buildung sector  
+I am Claudia, a former interior architect (M.A.) with several years of work experience in the building sector  
 and now aspiring **data analyst**.
 As a data analyst I would like to give space to my structure- and research-loving side
 and breath life into 'dry' numbers and data and optimize decision-making processes.
