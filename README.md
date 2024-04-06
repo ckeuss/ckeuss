@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am Claudia, a former interior architect (M.A.) with several years of work experience in the building sector  
-and now aspiring **data analyst**.
-As a data analyst I would like to give space to my structure- and research-loving side and breath life into 
-'dry' numbers. I would like to use data to optimize decision-making processes and shed light on user experiences.
+I am Claudia, a former interior architect (M.A.) with several years of work experience in the building sector and now aspiring **data analyst**.
+As a data analyst I would like to give space to my structure- and research-loving side and breath life into 'dry' numbers. 
+I would like to use data to optimize decision-making processes and shed light on user experiences.
 
-Due to my domain knowledge I can imagine to eventually merge both worlds the - built environment and data analytics.
+Due to my domain knowledge I can imagine to eventually merge both worlds - the built environment and data analytics.
 However, I am also interested in sociology, psychology, sustainability and user experience in other realms and open 
 to learn more about business and finance.
 Since I am a design enthusiast I do value the visual and communicative aspect of data and aim to dive deeper into 
