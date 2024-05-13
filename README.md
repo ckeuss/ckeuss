@@ -5,19 +5,17 @@ As a data analyst I would like to give space to my structure- and research-lovin
 I would like to use data to optimize decision-making processes and shed light on user experiences.
 
 Due to my domain knowledge I can imagine to eventually merge both worlds - the built environment and data analytics.
-However, I am also interested in sociology, psychology, sustainability and user experience in other realms and open 
-to learn more about business and finance.
+However, I am also interested in sociology, sustainability, psychology and user experience in other realms.
 Since I am a design enthusiast I do value the visual and communicative aspect of data and aim to dive deeper into 
 data viz topics (fan of Alberto Cairo and Edward Tufte!).
 
 At the moment I am focusing on learning the technical side of data analytics.
 I have recently finished an 8-month training with courses in 
-- R 
-- Python
-- SQL 
-- Data Science
-- Power BI
-- and Tableau
+R | Python |  SQL | Data Science | Power BI | Tableau
+• data manipulation, visualization and modeling using R and Python 
+• data querying using SQL
+• regression analysis, hypothesis testing and predictive modeling
+• creating dashboards using Power BI and Tableau
 
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
