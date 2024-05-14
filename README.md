@@ -12,8 +12,8 @@ data viz topics (fan of Alberto Cairo and Edward Tufte!).
 At the moment I am focusing on learning the technical side of data analytics.  
 I have recently finished an 8-month training with courses in  
 R | Python |  SQL | Data Science | Power BI | Tableau
-- data manipulation, visualization and modeling using R and Python
-- data querying using SQL
+- EDA, data manipulation and visualization using R and Python
+- data querying and data modeling using SQL
 - regression analysis, hypothesis testing and predictive modeling
 - creating dashboards using Power BI and Tableau  
 
