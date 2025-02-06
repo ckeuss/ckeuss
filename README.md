@@ -10,7 +10,7 @@ Since I am a design enthusiast I do value the visual and communicative aspect of
 data viz topics (fan of Alberto Cairo and Edward Tufte!).
 
 At the moment I am focusing on learning the technical side of data analytics.  
-I have recently finished an 9-month training with courses in  
+I have recently finished a 9-month training with courses in  
 R | Python |  SQL | Data Science | Power BI | Tableau
 - EDA, data manipulation and visualization using R and Python
 - data querying and data modeling using SQL
