@@ -11,10 +11,11 @@ At the moment I am focusing on learning the technical side of data analytics.
 I have finished a 9-month training with courses in  
 R | Python |  SQL | Data Science | Power BI | Tableau
 
-📊 Data Analysis & Visualization
-🔍 Exploratory Data Analysis & Predictive Modeling
-🏙 Built Environment, Sustainability, Socio-Spatial Research
-📈 Data-Driven Decision Making & Storytelling
+📊 Data Analytics & Visualization  
+🔍 Exploratory Data Analysis & Predictive Modeling  
+🏙 Built Environment, Sustainability, Socio-Spatial Research  
+📈 Data-Driven Decision Making & Storytelling  
+
 
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
