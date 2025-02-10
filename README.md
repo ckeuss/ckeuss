@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-I am Claudia, a former interior architect (M.A.) with several years of work experience in the building sector and now aspiring **data analyst**.
-As a data analyst I would like to give space to my structure- and research-loving side and breath life into 'dry' numbers.  
-I would like to use data to optimize decision-making processes and shed light on user experiences.
+Hi, I’m Claudia—an interior architect (M.A.) turned data analyst with several years of experience in the building sector. 
+My passion lies in analyzing and translating complex data into meaningful insights to support informed decision-making.
 
-Due to my domain knowledge I can imagine to eventually merge both worlds - the built environment and data analytics.
-However, I am also interested in sociology, sustainability, psychology and user experience in other realms.
-Since I am a design enthusiast I do value the visual and communicative aspect of data too and aim to dive deeper into 
-data viz topics (fan of Alberto Cairo and Edward Tufte!).
+I’m particularly interested in exploring data-driven approaches in the built environment, including urban analytics, sustainability, and socio-spatial research. 
+While I am still expanding my expertise in these fields, I am eager to combine my analytical skills with my domain knowledge to uncover patterns, trends, and opportunities. 
+Additionally, I value the visual and communicative aspects of data, drawing inspiration from experts like e.g. Alberto Cairo and Edward Tufte.
 
 At the moment I am focusing on learning the technical side of data analytics.  
-I have recently finished a 9-month training with courses in  
+I have finished a 9-month training with courses in  
 R | Python |  SQL | Data Science | Power BI | Tableau
-- EDA, data manipulation and visualization using R and Python
-- data querying and data modeling using SQL
-- regression analysis, hypothesis testing and predictive modeling
-- creating dashboards using Power BI and Tableau  
+
+📊 Data Analysis & Visualization
+🔍 Exploratory Data Analysis & Predictive Modeling
+🏙 Built Environment, Sustainability, Socio-Spatial Research
+📈 Data-Driven Decision Making & Storytelling
 
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -30,6 +29,6 @@ R | Python |  SQL | Data Science | Power BI | Tableau
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 I am located in Berlin and open for collaboration and job opportunities.
-On this page I will document my learning journey with projects from the courses
+On this page I will document my learning journey with projects from the courses, my recently finished internship
 or self-study. Feel free to review my portfolio! ✨
 
