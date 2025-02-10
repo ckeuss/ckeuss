@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I’m Claudia—an interior architect (M.A.) turned data analyst with several years of experience in the building sector. 
+I’m Claudia — an interior architect (M.A.) turned data analyst with several years of experience in the building sector. 
 My passion lies in analyzing and translating complex data into meaningful insights to support informed decision-making.
 
 I’m particularly interested in exploring data-driven approaches in the built environment, including urban analytics, sustainability, and socio-spatial research. 
