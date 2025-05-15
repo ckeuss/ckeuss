@@ -15,7 +15,7 @@ R | Python |  SQL | Data Science | Power BI | Tableau
 🏙 Built Environment, Sustainability, Socio-Spatial Research  
 📈 Data-Driven Decision Making & Storytelling  
 
-Currently, I’m focusing on enhancing my skills in Python, exploring Streamlit and QGIS, and expanding my experience with open data.
+Currently, I’m focusing on enhancing my skills in Python, exploring Streamlit and expanding my experience with open data.
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
