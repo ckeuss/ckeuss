@@ -1,19 +1,8 @@
 ### Hi there 👋
 
-I’m Claudia — an interior architect (M.A.) turned data analyst with several years of experience in the building sector. 
-My passion lies in analyzing and translating complex data into meaningful insights to support informed decision-making.
+I’m Claudia. My background is in interior architecture, and I’m interested in how space, systems, and human behavior interact. In recent years, I’ve started incorporating data as another way to explore and understand these connections. 
 
-I’m particularly passionate about applying data-driven approaches to improve urban living conditions, promote sustainability, and explore the socio-spatial dynamics of built environments. 
-While I am still expanding my expertise in these fields, I am eager to combine my analytical skills with my domain knowledge to uncover patterns, trends, and opportunities. 
-Additionally, I value the visual and communicative aspects of data, drawing inspiration from experts like e.g. Alberto Cairo and Edward Tufte.
-
-I have finished a 9-month training with courses in  
-R | Python |  SQL | Data Science | Power BI | Tableau
-
-📊 Data Analytics & Visualization  
-🔍 Exploratory Data Analysis & Predictive Modeling  
-🏙 Built Environment, Sustainability, Socio-Spatial Research  
-📈 Data-Driven Decision Making & Storytelling  
+I’m particularly passionate about applying data-driven approaches to improve urban living conditions, promote sustainability, and explore the socio-spatial dynamics of built environments. While I am still expanding my expertise in these fields, I am eager to combine my analytical skills with my domain knowledge to uncover patterns, trends, and opportunities. Additionally, I value the visual and communicative aspects of data.
 
 Currently, I’m focusing on enhancing my skills in Python, exploring Streamlit and expanding my experience with open data.
 
